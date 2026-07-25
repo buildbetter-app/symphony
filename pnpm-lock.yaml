@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       liquidjs:
-        specifier: ^10.24.0
-        version: 10.25.0
+        specifier: ^10.27.1
+        version: 10.27.1
       yaml:
         specifier: ^2.8.1
         version: 2.8.2
@@ -423,8 +423,8 @@ packages:
   js-tokens@9.0.1:
     resolution: {integrity: sha512-mxa9E9ITFOt0ban3j6L5MpjwegGz6lBQmM1IJkWeBZGcMxto50+eWdjC/52xDbS2vy0k7vIMK0Fe2wfL9OQSpQ==}
 
-  liquidjs@10.25.0:
-    resolution: {integrity: sha512-XpO7AiGULTG4xcTlwkcTI5JreFG7b6esLCLp+aUSh7YuQErJZEoUXre9u9rbdb0057pfWG4l0VursvLd5Q/eAw==}
+  liquidjs@10.27.1:
+    resolution: {integrity: sha512-ylE+1q2kSef1UxAyxqbyuWM3FRWS1v48JK1Y3CoW3bD6TSNXZh0+GsVnihujEpKyR+Jejx2aRAFfC3AHm9rElg==}
     engines: {node: '>=16'}
     hasBin: true
 
@@ -886,7 +886,7 @@ snapshots:
 
   js-tokens@9.0.1: {}
 
-  liquidjs@10.25.0:
+  liquidjs@10.27.1:
     dependencies:
       commander: 10.0.1
 
